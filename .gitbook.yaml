@@ -1,8 +1,8 @@
-book:
-  title: "My GitBook Project"
-  author: "Dilip N"
-  language: "en"
+root: ./docs/
 
 structure:
   readme: README.md
   summary: SUMMARY.md
+
+  redirects:
+  help: support.md
