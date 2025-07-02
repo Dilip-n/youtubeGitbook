@@ -3,12 +3,18 @@
 > A step‑by‑step guide to setting up your enterprise in the system.
 
 ## 📋 Prerequisites
-- You need **Admin** privileges.
+
 - Gather the following details:
-  - **Enterprise name**
-  - **Region** (e.g. “AP‑South”)
-  - **Billing information** (account number, tax ID)
-  - **Primary contact** (name, email, phone)
+  - **Enterprise Name**
+  - **Enterprise EID**
+  - **Enterprise Admin Email**
+  - **Enterprise Account Manager Email**
+  - **(optional) Enterprise LOGO**
+  - **(Optional) Enterprise Background**
+ 
+ fill the below form
+
+ ![Enterprise creation form](../assets/ecf.png)
 
 ## 🚀 Steps
 
