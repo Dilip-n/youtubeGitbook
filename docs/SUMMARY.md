@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-*[Enterprise Creation](Enterprise/Create.md)
+* [Enterprise Creation](Enterprise/Create.md)
  
 
 * [Page 1](page1/README.md)
