@@ -16,6 +16,27 @@
 
  ![Enterprise creation form](../assets/ecf.png)
 
+
+ ![Entities creation form](../assets/entitiescreation.png)
+
+ ![Entities mapping](../assets/entitymapping.png)
+
+ # Enterprise will be created Here
+
+## Need to add Prefferences for the enterprise
+
+### Here user can select the required dashboards, theem, etc below are the options available for user to select
+
+![First set of prefferences](../assets/prefferencespage1.png)
+
+![next set of prefferences](../assets/preferences%20page2.png)
+
+![next set of prefferences](../assets/prefferences%20page%203.png)
+
+![next set of prefferences](../assets/prefferences%20page%203.png)
+
+
+
 ## 🚀 Steps
 
 1. **Log in** to your admin portal.

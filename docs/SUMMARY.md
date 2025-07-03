@@ -3,6 +3,8 @@
 * [Introduction](README.md)
 
 * [Enterprise Creation](Enterprise/Create.md)
+
+* [Dynamic Dashboard Configuration](Enterprise/dynamicDashboardCreation.md)
  
 
 * [Page 1](page1/README.md)
