@@ -6,6 +6,7 @@
 
 - Gather the following details:
   - **Enterprise Name**
+      - **Test**
   - **Enterprise EID**
   - **Enterprise Admin Email**
   - **Enterprise Account Manager Email**
