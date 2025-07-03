@@ -1,5 +1,9 @@
 # Welcome to My Documentation
 
+
+# EANALYTIX
+
+
 This documentation provides a complete guide to understanding and using the project.
 
 ## 📚 What's Inside
@@ -15,3 +19,5 @@ Use the sidebar or the links in the table of contents to explore.
 ---
 
 For any questions or feedback, feel free to raise an issue or contribute via GitHub.
+
+ ![Enterprise creation form](./assets/Copilot_20250703_103636.png)
